@@ -1,2 +1,2 @@
 # Online-Bookstore-System
-Online Bookstore based on Microservices architecture
+Online Bookstore application based on Microservices architecture
