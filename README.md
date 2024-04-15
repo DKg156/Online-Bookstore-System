@@ -10,10 +10,10 @@ Vartika Singh 2023H1120181P <br>
 Tanisha Bhattacharyya 2023H1120197P <br>
 Ankit Kumar 2023H1030076P <br>
 
-<br><br><br>
+<br><br>
 Instructions to run the project:
 1. Java 8 or higher required
-2. Run each microservice individually one-by-one in any Java IDE.
+2. Run each microservice one-by-one in any Java IDE.
 3. Run the frontend app by executing these commands in the frontend folder:
    yarn install
    yarn start
