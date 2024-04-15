@@ -13,7 +13,7 @@ Ankit Kumar 2023H1030076P <br>
 <br><br>
 Instructions to run the project:
 1. Java 8 or higher required
-2. Run each microservice one-by-one in any Java IDE.
+2. First of all run the Eureka service. Secondly, run the API Gateway. Now, run each microservice one by one in any Java IDE.
 3. Run the frontend app by executing these commands in the frontend folder:
    <br>yarn install <br>
    yarn start
