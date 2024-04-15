@@ -2,6 +2,7 @@
 Online Bookstore System based on Microservices architecture <br><br>
 Frontend: React<br>
 Backend: Java, Spring Boot, Spring Cloud <br>
+Database: H2 <br>
 <br>
 Team members:<br>
 Dhruv Khurana 2023H1120185P <br>
